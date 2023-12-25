@@ -75,7 +75,7 @@ function Home2() {
               </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/kabir-ali-b620a3204"
+                  href="www.linkedin.com/in/ali-kabir-b620a3204"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -85,7 +85,7 @@ function Home2() {
               </li>
               {/* <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/kabir-ali"
+                  href="www.linkedin.com/in/ali-kabir-b620a3204"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
